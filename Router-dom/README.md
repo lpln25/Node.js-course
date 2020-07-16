@@ -7,4 +7,5 @@
 - Router mobile `npm install react-router-native`
 
 ### Document for study
-[React Router](reactrouter.com/web/guides/quick-start) : `reactrouter.com/web/guides/quick-start`
+- [React Router](reactrouter.com/web/guides/quick-start) : `reactrouter.com/web/guides/quick-start`
+- [SPA](https://en.wikipedia.org/wiki/Single-page_application): `en.wikipedia.org/wiki/Single-page_application`
