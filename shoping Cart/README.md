@@ -14,4 +14,4 @@ json-server public/db.json --port 8000
 
 ### Document for study
 1. [service for fake API](https://www.npmjs.com/package/json-server?activeTab=readme#getting-started)
-2. [Irnain fake API service](https://jsonplaceholder.ir/)
+2. [Iranain fake API service](https://jsonplaceholder.ir/)
