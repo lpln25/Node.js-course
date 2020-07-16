@@ -7,6 +7,7 @@
 1. Counter
 2. API
 3. Router
+4. Shopping Cart
 ---
 
 ### Start coding in *Windows*
