@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 import Products from './components/Products'
 import './components/Products.css'
 import Cart from './components/Cart'
