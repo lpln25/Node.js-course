@@ -17,7 +17,7 @@ class Cart extends React.Component {
               <div>
                 <ul>
                   {cartItems.map(item => 
-                    <li>
+                    <li key={item.id}>
                       {item.title} |<span className="badge badge-light">{item.price} تومان</span> | <span className="badge badge-primary">تعداد  {item.count}</span> | <button 
                       onClick={(e) => this.props.handleDecrement(e, item)}
                       className="btn btn-sm btn-light">
@@ -46,4 +46,4 @@ class Cart extends React.Component {
       }
 }
 
-export default Cart
+export default Cart;
